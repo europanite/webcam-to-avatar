@@ -981,7 +981,7 @@ const HomeScreen: React.FC = () => {
     );
   }
 
-  const REPO_URL = "https://github.com/europanite/webcam_to_avatar";
+  const REPO_URL = "https://github.com/europanite/webcam-to-avatar";
 
   const renderToggle = (label: string, enabled: boolean, onPress: () => void) => (
     <TouchableOpacity
